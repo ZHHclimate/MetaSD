@@ -8,7 +8,7 @@ from skimage.metrics import mean_squared_error as mse
 import torch
 import csv
 import os
-123
+
 def task_weight(T):
     epsilon = 1e-8 #防止分母为0
     all = sum(T)+epsilon#所有任务总的loss

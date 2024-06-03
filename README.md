@@ -43,7 +43,7 @@ Our data can be downloaded from [data](https://drive.google.com/drive/folders/1M
 - Extraction Code (提取码)：lspg
 
 ## Ackownledgements
-This code is built based on [MAML]（https://github.com/cbfinn/maml) and [EDSR](https://github.com/sanghyun-son/EDSR-PyTorch). We thank the authors for sharing the codes.
+This code is built based on [MAML](https://github.com/cbfinn/maml) and [EDSR](https://github.com/sanghyun-son/EDSR-PyTorch). We thank the authors for sharing the codes.
 
 ## Citation
 If you use this paper work in your research or work, please cite our paper:

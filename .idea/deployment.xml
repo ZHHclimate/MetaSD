@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhanghonghu@192.168.31.40:22 pytorch" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="zhanghonghu1@192.168.31.180:22 OpenSTL">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhanghonghu1@192.168.31.180:22 torch39">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhanghonghu@192.168.31.40:22 lightning">
+        <serverdata>
+          <mappings>
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhanghonghu@192.168.31.40:22 pytorch">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/seagate/zhanghonghu/code/climate_code_git/MetaSD" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
